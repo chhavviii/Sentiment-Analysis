@@ -102,14 +102,14 @@ while the **Streamlit app (`app.py`)** represents the final deployed solution.
 
 ## ▶️ How to Run the Project
 
-### 🔹 Option 1: Run Locally
+### Run Locally
 
 Follow the steps below to run the app on your system.
 
 #### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/text-sentiment-analysis-app.git
-cd text-sentiment-analysis-app
+git clone https://github.com/chhavviii/Sentiment-Analysis.git
+cd Sentiment-Analysis
 pip install -r requirements.txt
 streamlit run app.py
 http://localhost:8501
