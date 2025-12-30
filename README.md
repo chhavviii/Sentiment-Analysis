@@ -75,29 +75,6 @@ The app allows users to:
 - **NLTK**
 - **Streamlit**
 - **Pickle**
-
----
-
-## 📁 Project Structure
-
-text-sentiment-analysis-app/
-│
-├── app.py # Streamlit web application (main entry point)
-├── sentiment_model.pkl # Trained sentiment classification model
-├── tfidf_vectorizer.pkl # TF-IDF vectorizer used during training
-├── requirements.txt # Project dependencies
-├── README.md # Project documentation
-│
-├── notebook/
-│ └── sentiment_analysis.ipynb # EDA, preprocessing & model training notebook
-│
-├── screenshots/ # Application screenshots (optional)
-│ └── app_demo.png
-
-
-The **Jupyter notebook** is used for experimentation and model training,  
-while the **Streamlit app (`app.py`)** represents the final deployed solution.
-
 ---
 
 ## ▶️ How to Run the Project
